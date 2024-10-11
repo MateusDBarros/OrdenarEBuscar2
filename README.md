@@ -24,3 +24,7 @@ Este é um projeto simples em C para gerenciar uma lista de alunos. Ele permite 
 * Entre o nome do novo aluno: João
 * Qual a prioridade de João? 5
 * Aluno cadastrado com sucesso!
+
+  ## Contato
+
+Para mais informações, entre em contato via [mb685212@gmail.com](mailto:mb685212@gmail.com) ou [linkedin](https://linkedin.com/in/mateus-barros13)
