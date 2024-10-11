@@ -15,12 +15,12 @@ Este é um projeto simples em C para gerenciar uma lista de alunos. Ele permite 
 
 ### Exemplo de uso 
 
----Menu Principal---
-1. Adicionar Aluno
-2. Exibir Lista de Alunos
-3. Buscar Aluno
-4. Sair
-Seleciona uma opcao: 1
-Entre o nome do novo aluno: João
-Qual a prioridade de João? 5
-Aluno cadastrado com sucesso!
+** ---Menu Principal---
+** 1. Adicionar Aluno
+** 2. Exibir Lista de Alunos
+** 3. Buscar Aluno
+** 4. Sair
+* Seleciona uma opcao: 1
+* Entre o nome do novo aluno: João
+* Qual a prioridade de João? 5
+* Aluno cadastrado com sucesso!
